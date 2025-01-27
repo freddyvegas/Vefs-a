@@ -1,32 +1,7 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Þetta repository inniheldur kóðann að vefsíðu sem ég bjó til fyrir áfangana VÉL608G/VÉL205M. Markmiðið er að sýna vinnuframlag mitt, halda utan um verkefnaskjöl og nota GitHub til útgáfustýringar.
+**`index.html`**: Aðalsíða vefsins (heimasíða) sem inniheldur forsíðu og tengla í aðra hluta.
+- **`about.html`**: Undirsíða þar sem ég segi frá mér og set inn ferilskrá.
+- **`vel608G.html`** og **`vel20Mm.html`**: Undirsíður fyrir tvo áfanga þar sem verkefni tengd þeim eru vistuð.
+- **`assets/`**: Mappa sem geymir stílsnið (CSS), JavaScript skrár (ef við á), letur og aðrar tilfallandi skrár.
+  - **`css/`**: Inniheldur m.a. `main.css` með grunnútliti vefsins og öllum sérsniðnum breytingum.
+  - **`images/`**: Myndir sem notaðar eru á vefsíðunni, t.d. logo, bakgrunnsmyndir og verkefnamyndir.
